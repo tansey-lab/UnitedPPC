@@ -190,7 +190,7 @@ def load_rna_data(rna_matched_data_dir, rna_imputation_data_dir):
 
     return data, batch_index_vector, feature_map, sample_map, batch_map, batch_sizes, start_row, stop_row, n_batch
 
-def check_match(sample_map_met, sample_map_rna, MET_RNA_map, batch_index_vector):
+def check_match_ccRCC(sample_map_met, sample_map_rna, MET_RNA_map, batch_index_vector):
     sample_met = list(sample_map_met.keys())
     sample_rna = list(sample_map_rna.keys())[len(batch_index_vector[batch_index_vector == 0]):]
     met_order = []

@@ -62,7 +62,7 @@ if __name__ == "__main__":
     if check_match:
         # Load a master file for mapping between RNA and MET samples
         MET_RNA_map = pd.read_csv(f'{file_path}/MasterMapping_ccRCC.csv', header=0, index_col='MetabID')
-        check_match(sample_map_met, sample_map_rna, MET_RNA_map, batch_index_vector)
+        check_match_ccRCC(sample_map_met, sample_map_rna, MET_RNA_map, batch_index_vector)
     # Normalization, Concatenate MET and RNA data, and remove features with all NaNs
     data, met_data, rna_data, metabolite_map, gene_map, met_names, rna_names, feature_names, sample_names = \
         data_normalization_cleaning(met_data, rna_data, met_batch_index_vector, metabolite_map,
