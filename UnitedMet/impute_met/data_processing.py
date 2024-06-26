@@ -128,7 +128,9 @@ def load_rna_data(rna_matched_data_dir, rna_imputation_data_dir):
     batch_sizes = []
     dirlist = os.listdir(rna_matched_data_dir)
     dirlist.sort()
-    dirlist = os.listdir(rna_imputation_data_dir).sort() + dirlist  # put the imputation dataset in the first batch
+    imputation_dirlist = os.listdir(rna_imputation_data_dir)
+    imputation_dirlist.sort()
+    dirlist = imputation_dirlist + dirlist  # put the imputation dataset in the first batch
     for batch_idx, fpath in enumerate(
             dirlist):
         if 'csv' not in fpath:
