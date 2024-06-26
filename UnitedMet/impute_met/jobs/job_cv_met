@@ -1,0 +1,50 @@
+#!/bin/bash
+
+pwd
+hostname
+date
+
+# Load conda and active UnitedMet environment
+conda_path="/usersoftware/resnike/xiea1/anaconda/etc/profile.d/conda.sh"
+cd /data1/reznike/xiea1/UnitedMet
+
+job1="init"
+job2="pyro"
+job3="posterior"
+job4="summary"
+script1="UnitedMet.impute_met.CV_initialization"
+script2="UnitedMet.impute_met.CV_pyro"
+script3="UnitedMet.impute_met.CV_posterior"
+script4="UnitedMet.impute_met.CV_summarization"
+
+cv_opts="--crossval_dims 1 102 --crossval_steps 10 --crossval_folds 10"
+svi_opts="--n_steps 2000 --learning_rate 0.001"
+# calculate number of jobs in the job array, n_indices = n_folds * len(n_dims_options)
+n_indices=110
+
+
+file_path="/data1/reznike/xiea1/MetabolicModel/data"
+rna_matched_data_dir="/data1/reznike/xiea1/MetabolicModel/data/RNA_matched_ccRCC"
+met_matched_data_dir="/data1/reznike/xiea1/MetabolicModel/data/MET_matched_ccRCC"
+rna_imputation_data_dir="/data1/reznike/xiea1/MetabolicModel/data/RNA_matched_imputation"
+results_dir="/data1/reznike/xiea1/MetabolicModel/results_RNA_ccRCC"
+
+# submit trial jobs
+logs_dir="${results_dir}/logs"
+echo $(pwd)
+echo ${results_dir}
+echo ${logs_dir}
+mkdir -p ${results_dir} ${logs_dir}
+# The first job of CV_initialization only needs to be run once. It will empty existing cv scores files.
+jid1=$(sbatch --parsable -p componc_cpu -J "${job1}" -N 1 -n 1 -c 10 --mem=10G -t 0:15:00 -o ${logs_dir}/${job1}_%j.stdout -e ${logs_dir}/${job1}_%j.stderr --wrap="source ${conda_path};conda activate UnitedMet;python3 -m ${script1} ${cv_opts} -fp ${file_path} -rna ${rna_matched_data_dir} -met ${met_matched_data_dir} -id ${rna_imputation_data_dir} -ck -rd ${results_dir}")
+jid2=$(sbatch --parsable -p componc_cpu -J "${job2}" --array=1-${n_indices} --depend=afterok:$jid1 -N 1 -n 1 -c 20 --mem=20G -t 1:59:00 -o ${logs_dir}/${job2}_%j.stdout -e ${logs_dir}/${job2}_%j.stderr --wrap="source ${conda_path};conda activate UnitedMet;python3 -m ${script2} -rd ${results_dir} ${cv_opts} ${svi_opts}")
+jid3=$(sbatch --parsable -p componc_cpu -J "${job3}" --array=1-${n_indices} --depend=afterok:$jid2 -N 1 -n 1 -c 24 --mem=96G -t 0:30:00 -o ${logs_dir}/${job3}_%j.stdout -e ${logs_dir}/${job3}_%j.stderr --wrap="source ${conda_path};conda activate UnitedMet;python3 -m ${script3} -rd ${results_dir} ${cv_opts}")
+sbatch -p componc_cpu -J "${job4}" --depend=afterok:$jid3 -N 1 -n 1 -c 10 --mem=10G -t 0:15:00 -o ${logs_dir}/${job4}_%j.stdout -e ${logs_dir}/${job4}_%j.stderr --wrap="source ${conda_path};conda activate UnitedMet;python3 -m ${script4} -rd ${results_dir} ${cv_opts}"
+
+
+
+echo "cv options:"
+echo $opts
+echo "Starting job..."
+echo "THe path is $PATH"
+echo "start time $(date)"

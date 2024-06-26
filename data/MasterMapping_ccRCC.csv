@@ -1,0 +1,342 @@
+MetabID,Unnamed: 0,CommonID,ITHID,RNAID,MetabFile,ITHFile,RNAFile,RNA_raw_File,Dataset,Histology,TN,Identifier,sub_dir
+C3L-00815-T,1246,,,C3L-00815-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-00969-T,1247,,,C3L-00969-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-00970-T,1248,,,C3L-00970-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-00976-T,1249,,,C3L-00976-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-00980-T,1250,,,C3L-00980-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-00981-T,1251,,,C3L-00981-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-00991-T,1252,,,C3L-00991-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01033-T,1253,,,C3L-01033-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01034-T,1254,,,C3L-01034-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01106-T,1255,,,C3L-01106-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01107-T,1256,,,C3L-01107-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01459-T,1257,,,C3L-01459-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01462-T,1258,,,C3L-01462-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01464-T,1259,,,C3L-01464-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01465-T,1260,,,C3L-01465-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01470-T,1261,,,C3L-01470-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01665-T,1262,,,C3L-01665-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01676-T,1263,,,C3L-01676-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01869-T,1264,,,C3L-01869-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01929-T,1265,,,C3L-01929-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01951-T,1266,,,C3L-01951-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01958-T,1267,,,C3L-01958-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-01976-T,1268,,,C3L-01976-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02175-T,1269,,,C3L-02175-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02177-T,1270,,,C3L-02177-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02214-T,1271,,,C3L-02214-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02220-T,1272,,,C3L-02220-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02346-T,1273,,,C3L-02346-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02352-T,1274,,,C3L-02352-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02551-T,1275,,,C3L-02551-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-02553-T,1276,,,C3L-02553-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-00647-T,1277,,,C3N-00647-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-00715-T,1278,,,C3N-00715-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-01077-T,1279,,,C3N-01077-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-01081-T,1280,,,C3N-01081-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-01091-T,1281,,,C3N-01091-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-01536-T,1282,,,C3N-01536-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-01654-T,1283,,,C3N-01654-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-01828-T,1284,,,C3N-01828-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-01902-T,1285,,,C3N-01902-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02005-T,1286,,,C3N-02005-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02085-T,1287,,,C3N-02085-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02262-T,1288,,,C3N-02262-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02263-T,1289,,,C3N-02263-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02264-T,1290,,,C3N-02264-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02265-T,1291,,,C3N-02265-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02338-T,1292,,,C3N-02338-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02723-T,1293,,,C3N-02723-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02726-T,1294,,,C3N-02726-T,,,,,CPTAC,,Tumor,,CPTAC
+C3N-02945-T,1295,,,C3N-02945-T,,,,,CPTAC,,Tumor,,CPTAC
+C3L-00165-A,1296,,,C3L-00165-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-00165-T,1297,,,C3L-00165-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-00966-A,1298,,,C3L-00966-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-00966-T,1299,,,C3L-00966-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-00968-A,1300,,,C3L-00968-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-00968-T,1301,,,C3L-00968-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-00982-A,1302,,,C3L-00982-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-00982-T,1303,,,C3L-00982-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-01681-A,1304,,,C3L-01681-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-01681-T,1305,,,C3L-01681-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-01952-T,1306,,,C3L-01952-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-01954-T,1307,,,C3L-01954-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-01963-T,1308,,,C3L-01963-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-01978-A,1309,,,C3L-01978-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-01978-T,1310,,,C3L-01978-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02176-T,1311,,,C3L-02176-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02201-T,1312,,,C3L-02201-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02202-T,1313,,,C3L-02202-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02208-T,1314,,,C3L-02208-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02211-T,1315,,,C3L-02211-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02364-A,1316,,,C3L-02364-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-02364-T,1317,,,C3L-02364-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02544-A,1318,,,C3L-02544-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-02544-T,1319,,,C3L-02544-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02556-A,1320,,,C3L-02556-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3L-02556-T,1321,,,C3L-02556-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02841-T,1322,,,C3L-02841-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02842-T,1323,,,C3L-02842-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02856-T,1324,,,C3L-02856-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3L-02857-T,1325,,,C3L-02857-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-00721-A,1326,,,C3N-00721-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3N-00721-T,1327,,,C3N-00721-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01078-A,1328,,,C3N-01078-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3N-01078-T,1329,,,C3N-01078-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01080-A,1330,,,C3N-01080-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3N-01080-T,1331,,,C3N-01080-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01082-A,1332,,,C3N-01082-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3N-01082-T,1333,,,C3N-01082-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01083-A,1334,,,C3N-01083-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3N-01083-T,1335,,,C3N-01083-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01085-A,1336,,,C3N-01085-A,,,,,CPTAC_val,,Normal,,CPTAC_val
+C3N-01085-T,1337,,,C3N-01085-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01086-T,1338,,,C3N-01086-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01088-T,1339,,,C3N-01088-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01090-T,1340,,,C3N-01090-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01655-T,1341,,,C3N-01655-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01656-T,1342,,,C3N-01656-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01657-T,1343,,,C3N-01657-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01806-T,1344,,,C3N-01806-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01905-T,1345,,,C3N-01905-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-01989-T,1346,,,C3N-01989-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02063-T,1347,,,C3N-02063-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02066-T,1348,,,C3N-02066-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02068-T,1349,,,C3N-02068-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02070-T,1350,,,C3N-02070-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02082-T,1351,,,C3N-02082-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02084-T,1352,,,C3N-02084-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02160-T,1353,,,C3N-02160-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02224-T,1354,,,C3N-02224-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02248-T,1355,,,C3N-02248-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02266-T,1356,,,C3N-02266-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02332-T,1357,,,C3N-02332-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02429-T,1358,,,C3N-02429-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02431-T,1359,,,C3N-02431-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02439-T,1360,,,C3N-02439-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02577-T,1361,,,C3N-02577-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02761-T,1362,,,C3N-02761-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02763-T,1363,,,C3N-02763-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-02811-T,1364,,,C3N-02811-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-03018-T,1365,,,C3N-03018-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+C3N-03020-T,1366,,,C3N-03020-T,,,,,CPTAC_val,,Tumor,,CPTAC_val
+MSKC-00397,486,RC18:MSKC-00397,RCC483,RCC483,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00399,487,RC18:MSKC-00399,RCC486,RCC486,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Metanphric Adenoma,Tumor,RC18Flow,RC18
+MSKC-00400,488,RC18:MSKC-00400,RCC495,RCC495,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00404,489,RC18:MSKC-00404,RCC539,RCC539,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00405,490,RC18:MSKC-00405,RCC540,RCC540,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00406,491,RC18:MSKC-00406,RCC542,RCC542,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00407,492,RC18:MSKC-00407,RCC547,RCC547,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Chromophobe,Tumor,RC18Flow,RC18
+MSKC-00412,493,RC18:MSKC-00412,RCC560,RCC560,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00441,494,RC18:MSKC-00441,RCC564,RCC564,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Chromophobe,Tumor,RC18Flow,RC18
+MSKC-00417,495,RC18:MSKC-00417,RCC575,RCC575,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00418,496,RC18:MSKC-00418,RCC579,RCC579,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00419,497,RC18:MSKC-00419,RCC580,RCC580,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00420,498,RC18:MSKC-00420,RCC581,RCC581,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Chromophobe,Tumor,RC18Flow,RC18
+MSKC-00421,499,RC18:MSKC-00421,RCC582,RCC582,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00422,500,RC18:MSKC-00422,RCC585,RCC585,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00424,501,RC18:MSKC-00424,RCC588,RCC588,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Chromophobe,Tumor,RC18Flow,RC18
+MSKC-00425,502,RC18:MSKC-00425,RCC589,RCC589,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Chromophobe,Tumor,RC18Flow,RC18
+MSKC-00427,503,RC18:MSKC-00427,RCC591,RCC591,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00429,504,RC18:MSKC-00429,RCC595,RCC595,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Chromophobe,Tumor,RC18Flow,RC18
+MSKC-00430,505,RC18:MSKC-00430,RCC596,RCC596,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Chromophobe,Tumor,RC18Flow,RC18
+MSKC-00431,506,RC18:MSKC-00431,RCC597,RCC597,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00434,507,RC18:MSKC-00434,RCC613,RCC613,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00436,508,RC18:MSKC-00436,RCC615,RCC615,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00437,509,RC18:MSKC-00437,RCC616,RCC616,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00392,510,RC18:MSKC-00392,JHRCC447,JHRCC447,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00395,511,RC18:MSKC-00395,JHRCC466,JHRCC466,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00398,512,RC18:MSKC-00398,JHRCC485,JHRCC485,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00401,513,RC18:MSKC-00401,JHRCC518,JHRCC518,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00403,514,RC18:MSKC-00403,JHRCC525,JHRCC525,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00411,515,RC18:MSKC-00411,RCC559tisbulk,RCC559tisbulk,RC18Flow_MetabImmune_tumor.csv,MergedDeconvolution.Flow4Batch.csv,Flow4Batch.tpm.gene_symbol.csv,Flow4Batch.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18Flow,RC18
+MSKC-00350,516,RC18:MSKC-00350,MSK0245,MSK0245,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00351,517,RC18:MSKC-00351,MSK0246,MSK0246,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00352,518,RC18:MSKC-00352,MSK0247,MSK0247,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00353,519,RC18:MSKC-00353,MSK0248,MSK0248,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00354,520,RC18:MSKC-00354,MSK0249,MSK0249,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00355,521,RC18:MSKC-00355,MSK0250,MSK0250,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00356,522,RC18:MSKC-00356,MSK0251,MSK0251,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00357,523,RC18:MSKC-00357,MSK0252,MSK0252,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00358,524,RC18:MSKC-00358,MSK0253,MSK0253,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00359,525,RC18:MSKC-00359,MSK0254,MSK0254,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00360,526,RC18:MSKC-00360,MSK0255,MSK0255,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00361,527,RC18:MSKC-00361,MSK0259,MSK0259,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00362,528,RC18:MSKC-00362,MSK0260,MSK0260,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00363,529,RC18:MSKC-00363,MSK0261,MSK0261,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00364,530,RC18:MSKC-00364,MSK0262,MSK0262,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00365,531,RC18:MSKC-00365,MSK0263,MSK0263,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00366,532,RC18:MSKC-00366,MSK0264,MSK0264,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00367,533,RC18:MSKC-00367,MSK0265,MSK0265,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00368,534,RC18:MSKC-00368,MSK0266,MSK0266,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00369,535,RC18:MSKC-00369,MSK0267,MSK0267,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00378,536,RC18:MSKC-00378,MSK0268,MSK0268,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00379,537,RC18:MSKC-00379,MSK0269,MSK0269,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00380,538,RC18:MSKC-00380,MSK0270,MSK0270,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00384,539,RC18:MSKC-00384,MSK0274,MSK0274,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00386,540,RC18:MSKC-00386,MSK0276,MSK0276,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00387,541,RC18:MSKC-00387,MSK0277,MSK0277,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00388,542,RC18:MSKC-00388,MSK0278,MSK0278,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00389,543,RC18:MSKC-00389,MSK0279,MSK0279,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00390,544,RC18:MSKC-00390,MSK0280,MSK0280,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00391,545,RC18:MSKC-00391,MSK0281,MSK0281,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00258,546,RC18:MSKC-00258,MSK0282,MSK0282,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00259,547,RC18:MSKC-00259,MSK0283,MSK0283,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00260,548,RC18:MSKC-00260,MSK0284,MSK0284,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00262,549,RC18:MSKC-00262,MSK0285,MSK0285,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00263,550,RC18:MSKC-00263,MSK0286,MSK0286,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00264,551,RC18:MSKC-00264,MSK0287,MSK0287,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00265,552,RC18:MSKC-00265,MSK0288,MSK0288,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00266,553,RC18:MSKC-00266,MSK0289,MSK0289,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00267,554,RC18:MSKC-00267,MSK0290,MSK0290,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00268,555,RC18:MSKC-00268,MSK0291,MSK0291,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00270,556,RC18:MSKC-00270,MSK0292,MSK0292,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00271,557,RC18:MSKC-00271,MSK0293,MSK0293,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00272,558,RC18:MSKC-00272,MSK0294,MSK0294,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00274,559,RC18:MSKC-00274,MSK0296,MSK0296,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00275,560,RC18:MSKC-00275,MSK0297,MSK0297,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00276,561,RC18:MSKC-00276,MSK0298,MSK0298,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00277,562,RC18:MSKC-00277,MSK0299,MSK0299,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00278,563,RC18:MSKC-00278,MSK0300,MSK0300,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00279,564,RC18:MSKC-00279,MSK0301,MSK0301,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00280,565,RC18:MSKC-00280,MSK0302,MSK0302,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00281,566,RC18:MSKC-00281,MSK0303,MSK0303,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00282,567,RC18:MSKC-00282,MSK0304,MSK0304,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00283,568,RC18:MSKC-00283,MSK0305,MSK0305,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00285,569,RC18:MSKC-00285,MSK0306,MSK0306,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00286,570,RC18:MSKC-00286,MSK0307,MSK0307,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00287,571,RC18:MSKC-00287,MSK0308,MSK0308,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00288,572,RC18:MSKC-00288,MSK0309,MSK0309,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00289,573,RC18:MSKC-00289,MSK0310,MSK0310,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00290,574,RC18:MSKC-00290,MSK0311,MSK0311,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00291,575,RC18:MSKC-00291,MSK0312,MSK0312,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00292,576,RC18:MSKC-00292,MSK0313,MSK0313,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00293,577,RC18:MSKC-00293,MSK0314,MSK0314,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00294,578,RC18:MSKC-00294,MSK0315,MSK0315,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00295,579,RC18:MSKC-00295,MSK0316,MSK0316,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00296,580,RC18:MSKC-00296,MSK0317,MSK0317,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00297,581,RC18:MSKC-00297,MSK0318,MSK0318,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00298,582,RC18:MSKC-00298,MSK0319,MSK0319,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00299,583,RC18:MSKC-00299,MSK0320,MSK0320,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00300,584,RC18:MSKC-00300,MSK0321,MSK0321,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00301,585,RC18:MSKC-00301,MSK0322,MSK0322,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00302,586,RC18:MSKC-00302,MSK0323,MSK0323,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00303,587,RC18:MSKC-00303,MSK0324,MSK0324,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00304,588,RC18:MSKC-00304,MSK0327,MSK0327,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00305,589,RC18:MSKC-00305,MSK0328,MSK0328,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00306,590,RC18:MSKC-00306,MSK0329,MSK0329,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00307,591,RC18:MSKC-00307,MSK0330,MSK0330,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00308,592,RC18:MSKC-00308,MSK0331,MSK0331,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00309,593,RC18:MSKC-00309,MSK0332,MSK0332,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00310,594,RC18:MSKC-00310,MSK0333,MSK0333,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00311,595,RC18:MSKC-00311,MSK0334,MSK0334,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00312,596,RC18:MSKC-00312,MSK0336,MSK0336,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00313,597,RC18:MSKC-00313,MSK0337,MSK0337,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00314,598,RC18:MSKC-00314,MSK0338,MSK0338,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00317,599,RC18:MSKC-00317,MSK0340,MSK0340,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00320,600,RC18:MSKC-00320,MSK0342,MSK0342,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00321,601,RC18:MSKC-00321,MSK0343,MSK0343,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00322,602,RC18:MSKC-00322,MSK0344,MSK0344,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00323,603,RC18:MSKC-00323,MSK0345,MSK0345,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00324,604,RC18:MSKC-00324,MSK0346,MSK0346,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00325,605,RC18:MSKC-00325,MSK0347,MSK0347,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00326,606,RC18:MSKC-00326,MSK0348,MSK0348,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00327,607,RC18:MSKC-00327,MSK0350,MSK0350,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00328,608,RC18:MSKC-00328,MSK0351,MSK0351,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00329,609,RC18:MSKC-00329,MSK0352,MSK0352,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00330,610,RC18:MSKC-00330,MSK0353,MSK0353,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00331,611,RC18:MSKC-00331,MSK0354,MSK0354,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00332,612,RC18:MSKC-00332,MSK0355,MSK0355,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00333,613,RC18:MSKC-00333,MSK0356,MSK0356,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00334,614,RC18:MSKC-00334,MSK0357,MSK0357,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00335,615,RC18:MSKC-00335,MSK0359,MSK0359,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00336,616,RC18:MSKC-00336,MSK0360,MSK0360,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00337,617,RC18:MSKC-00337,MSK0361,MSK0361,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00338,618,RC18:MSKC-00338,MSK0362,MSK0362,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00339,619,RC18:MSKC-00339,MSK0363,MSK0363,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00340,620,RC18:MSKC-00340,MSK0364,MSK0364,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00341,621,RC18:MSKC-00341,MSK0365,MSK0365,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00342,622,RC18:MSKC-00342,MSK0366,MSK0366,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00343,623,RC18:MSKC-00343,MSK0368,MSK0368,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00344,624,RC18:MSKC-00344,MSK0369,MSK0369,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00345,625,RC18:MSKC-00345,MSK0370,MSK0370,RC18MR_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Normal,RC18MR,RC18
+MSKC-00346,626,RC18:MSKC-00346,MSK0371,MSK0371,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00347,627,RC18:MSKC-00347,MSK0373,MSK0373,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00348,628,RC18:MSKC-00348,MSK0374,MSK0374,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00349,629,RC18:MSKC-00349,MSK0375,MSK0375,RC18MR_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,MultiRegionalRCC.tpm.gene_symbol.csv,MultiRegionalRCC.raw.gene_symbol.csv,RC18,Clear Cell,Tumor,RC18MR,RC18
+MSKC-00573,630,RC20:MSKC-00573,MSK1097,MSK1097,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00574,631,RC20:MSKC-00574,MSK1098,MSK1098,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00575,632,RC20:MSKC-00575,MSK1099,MSK1099,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00576,633,RC20:MSKC-00576,MSK1100,MSK1100,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00577,634,RC20:MSKC-00577,MSK1101,MSK1101,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00578,635,RC20:MSKC-00578,MSK1094,MSK1094,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00579,636,RC20:MSKC-00579,MSK1095,MSK1095,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00580,637,RC20:MSKC-00580,MSK1096,MSK1096,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00581,638,RC20:MSKC-00581,MSK1106,MSK1106,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00582,639,RC20:MSKC-00582,MSK1107,MSK1107,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00583,640,RC20:MSKC-00583,MSK1108,MSK1108,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00584,641,RC20:MSKC-00584,MSK1110,MSK1110,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00585,642,RC20:MSKC-00585,MSK1111,MSK1111,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00586,643,RC20:MSKC-00586,MSK1103,MSK1103,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00587,644,RC20:MSKC-00587,MSK1104,MSK1104,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00588,645,RC20:MSKC-00588,MSK1105,MSK1105,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00589,646,RC20:MSKC-00589,MSK1116,MSK1116,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00590,647,RC20:MSKC-00590,MSK1118,MSK1118,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00591,648,RC20:MSKC-00591,MSK1119,MSK1119,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00592,649,RC20:MSKC-00592,MSK1120,MSK1120,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00593,650,RC20:MSKC-00593,MSK1121,MSK1121,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00594,651,RC20:MSKC-00594,MSK1113,MSK1113,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00595,652,RC20:MSKC-00595,MSK1114,MSK1114,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00596,653,RC20:MSKC-00596,MSK1115,MSK1115,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00597,654,RC20:MSKC-00597,MSK1126,MSK1126,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00598,655,RC20:MSKC-00598,MSK1127,MSK1127,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00599,656,RC20:MSKC-00599,MSK1128,MSK1128,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00600,657,RC20:MSKC-00600,MSK1129,MSK1129,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00601,658,RC20:MSKC-00601,MSK1131,MSK1131,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00602,659,RC20:MSKC-00602,MSK1123,MSK1123,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00603,660,RC20:MSKC-00603,MSK1124,MSK1124,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00604,661,RC20:MSKC-00604,MSK1125,MSK1125,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00605,662,RC20:MSKC-00605,MSK1136,MSK1136,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00606,663,RC20:MSKC-00606,MSK1137,MSK1137,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00607,664,RC20:MSKC-00607,MSK1138,MSK1138,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00608,665,RC20:MSKC-00608,MSK1139,MSK1139,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00609,666,RC20:MSKC-00609,MSK1140,MSK1140,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00610,667,RC20:MSKC-00610,MSK1133,MSK1133,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00611,668,RC20:MSKC-00611,MSK1134,MSK1134,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00612,669,RC20:MSKC-00612,MSK1135,MSK1135,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00621,670,RC20:MSKC-00621,MSK1141,MSK1141,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00623,671,RC20:MSKC-00623,MSK1146,MSK1146,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00624,672,RC20:MSKC-00624,MSK1144,MSK1144,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00625,673,RC20:MSKC-00625,MSK1145,MSK1145,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00626,674,RC20:MSKC-00626,MSK1143,MSK1143,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00627,675,RC20:MSKC-00627,MSK1148,MSK1148,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Medullary,Tumor,RC20,RC20
+MSKC-00628,676,RC20:MSKC-00628,MSK1147,MSK1147,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Medullary,Normal,RC20,RC20
+MSKC-00629,677,RC20:MSKC-00629,MSK1153,MSK1153,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00630,678,RC20:MSKC-00630,MSK1151,MSK1151,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00631,679,RC20:MSKC-00631,MSK1152,MSK1152,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00632,680,RC20:MSKC-00632,MSK1149,MSK1149,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00633,681,RC20:MSKC-00633,MSK1150,MSK1150,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00635,682,RC20:MSKC-00635,MSK1155,MSK1155,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00637,683,RC20:MSKC-00637,MSK1154,MSK1154,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00638,684,RC20:MSKC-00638,MSK1161,MSK1161,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00639,685,RC20:MSKC-00639,MSK1159,MSK1159,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00640,686,RC20:MSKC-00640,MSK1160,MSK1160,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00641,687,RC20:MSKC-00641,MSK1158,MSK1158,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00642,688,RC20:MSKC-00642,MSK1165,MSK1165,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00643,689,RC20:MSKC-00643,MSK1164,MSK1164,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00644,690,RC20:MSKC-00644,MSK1162,MSK1162,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00645,691,RC20:MSKC-00645,MSK1163,MSK1163,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00646,692,RC20:MSKC-00646,MSK1167,MSK1167,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00647,693,RC20:MSKC-00647,MSK1168,MSK1168,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00648,694,RC20:MSKC-00648,MSK1169,MSK1169,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00649,695,RC20:MSKC-00649,MSK1166,MSK1166,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00650,696,RC20:MSKC-00650,MSK1171,MSK1171,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00651,697,RC20:MSKC-00651,MSK1173,MSK1173,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00652,698,RC20:MSKC-00652,MSK1172,MSK1172,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00653,699,RC20:MSKC-00653,MSK1170,MSK1170,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
+MSKC-00654,700,RC20:MSKC-00654,MSK1178,MSK1178,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00655,701,RC20:MSKC-00655,MSK1177,MSK1177,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00656,702,RC20:MSKC-00656,MSK1179,MSK1179,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00657,703,RC20:MSKC-00657,MSK1175,MSK1175,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00658,704,RC20:MSKC-00658,MSK1174,MSK1174,RC20_MetabImmune_tumor.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Tumor,RC20,RC20
+MSKC-00659,705,RC20:MSKC-00659,MSK1176,MSK1176,RC20_MetabImmune_normal.csv,Multiregions.2Batchs.ImmuneDeconvolution.csv,Multiregions.2Batchs.Sample.hg19KnownGene.tpm.gene_symbol.csv,Multiregions.2Batchs.Sample.hg19KnownGene.raw.gene_symbol.csv,RC20,Clear Cell,Normal,RC20,RC20
