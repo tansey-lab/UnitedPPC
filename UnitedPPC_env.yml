@@ -1,4 +1,4 @@
-name: UnitedMet
+name: UnitedPPC
 channels:
   - pytorch
   - anaconda
@@ -154,4 +154,3 @@ dependencies:
   - zstd=1.5.5=hc292b87_1
   - pip:
       - seaborn==0.13.2
-prefix: /usersoftware/resnike/xiea1/anaconda/envs/UnitedMet
