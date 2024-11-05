@@ -1,0 +1,41 @@
+#!/bin/bash
+
+pwd
+hostname
+date
+
+# Load conda and active UnitedMet environment
+conda_path="/usersoftware/resnike/xiea1/anaconda/etc/profile.d/conda.sh"
+cd /data1/reznike/xiea1/UnitedMet
+
+# define job options
+job1="pyro_final"
+job2="posterior_final"
+
+# define run options
+script1="UnitedMet.impute_met.PL_rna_trial_pyro"
+script2="UnitedMet.impute_met.PL_rna_trial_pyro_posterior"
+
+
+opts="--verbose_embeddings --n_steps 4000 --learning_rate 0.001"
+file_path="/data1/reznike/xiea1/MetabolicModel/data"
+rna_matched_data_dir="/data1/reznike/xiea1/MetabolicModel/data/RNA_matched_ccRCC"
+met_matched_data_dir="/data1/reznike/xiea1/MetabolicModel/data/MET_matched_ccRCC"
+rna_imputation_data_dir="/data1/reznike/xiea1/MetabolicModel/data/RNA_matched_imputation"
+results_dir="/data1/reznike/xiea1/MetabolicModel/results_RNA_ccRCC"
+ndims=141
+
+# submit trial jobs
+logs_dir="${results_dir}/logs"
+echo ${ndims}
+echo $(pwd)
+echo ${results_dir}
+mkdir -p ${results_dir} ${logs_dir}
+ id1=$(sbatch --parsable -p componc_cpu -J "${job1}" -N 1 -n 1 -c 20 --mem=20G -t 2:30:00 -o ${logs_dir}/${job1}_%j.stdout -e ${logs_dir}/${job1}_%j.stderr --wrap="source ${conda_path};conda activate UnitedMet;python3 -m ${script1} $opts -fp ${file_path} -rna ${rna_matched_data_dir} -met ${met_matched_data_dir} -id ${rna_imputation_data_dir} -ck -rd ${results_dir} -n ${ndims}")
+jid2=$(sbatch --parsable -p componc_cpu -J "${job2}" --depend=afterok:$jid1 -N 1 -n 1 -c 24 --mem=72G -t 0:15:00 -o ${logs_dir}/${job2}_%j.stdout -e ${logs_dir}/${job2}_%j.stderr --wrap="source ${conda_path};conda activate UnitedMet;python3 -m ${script2} -ve -rd ${results_dir}")
+
+echo "run options:"
+echo $opts
+echo "Starting job..."
+echo "THe path is $PATH"
+echo "start time $(date)"
