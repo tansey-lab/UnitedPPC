@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 import os
-from UnitedPPC.impute_met.utils import count_obs, order_and_rank
-from itertools import repeat
+
+from UnitedPPC.utils import count_obs, order_and_rank
 
 def generate_concatenated_ppc_data(
     rna_file: str,
@@ -28,15 +28,16 @@ def generate_concatenated_ppc_data(
         Batch index vector.
     
     """
-    for file in [file_meta, file_rna, file_zscore]:
+    for file in [rna_file, zscore_file, meta_file]:
         if not os.path.exists(file):
             raise OSError(f"File {file} doesn't exist.")
         
-    df_meta_sample = pd.read_csv(file_meta, header=0)
-    df_rna = pd.read_csv(file_rna, header=0, index_col=0)
+    df_meta_sample = pd.read_csv(meta_file, header=0)
+    
+    df_rna = pd.read_csv(rna_file, header=0, index_col=0)
     n_rna = df_rna.shape[1]
 
-    df_zscore = pd.read_csv(file_zscore, header=0)
+    df_zscore = pd.read_csv(zscore_file, header=0)
     df_zscore_pivot = df_zscore.pivot(
         index="sample_id", 
         columns="drug_id", 

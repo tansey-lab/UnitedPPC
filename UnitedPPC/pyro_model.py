@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 import logging
 import matplotlib.pyplot as plt
+import tqdm
+
 import torch
 import pyro
 import pyro.distributions as dist
@@ -12,10 +14,10 @@ from pyro.infer import SVI, Trace_ELBO
 from pyro.distributions.torch_distribution import TorchDistribution
 from torch.distributions import constraints
 import pyro.poutine as poutine
-import tqdm
-from UnitedMet.impute_met.utils import gumbel_sampling_3D, smart_perm_2D
-from UnitedMet.impute_met.utils import count_obs, order_and_rank
-from Performance_Benchmarking.scripts.utils import re_rank_2D
+
+from UnitedPPC.utils import gumbel_sampling_3D, smart_perm_2D
+from UnitedPPC.utils import count_obs, order_and_rank
+from UnitedPPC.utils import re_rank_2D
 
 def generate_pyro_data(data, n_dims, n_batch, batch_index_vector):
     """

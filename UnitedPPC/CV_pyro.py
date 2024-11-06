@@ -11,7 +11,7 @@ if __name__ == "__main__":
     args = parsearg_utils().parse_args()
     
     # output options
-    results_dir = args.results_dir
+    dir_results = args.results_dir
     # cross-validation options
     cv_dims = args.crossval_dims
     cv_step = args.crossval_steps
@@ -28,7 +28,7 @@ if __name__ == "__main__":
     job_index = int(job_index)
 
     # ------------------------------------- main -------------------------------------
-    with open(f"{results_dir}/matrices.npy", "rb") as f:
+    with open(f"{dir_results}/matrices.npy", "rb") as f:
         orders = np.load(f)
         n_obs = np.load(f)
         batch_sizes = np.load(f)
@@ -44,11 +44,11 @@ if __name__ == "__main__":
     didx = (job_index-1)//cv_folds
     n_dims = n_dims_options[didx]
     fidx = (job_index-1) % cv_folds
-    print("The dimension is: ", n_dims)
-    print("The fold is: ", fidx)
+    print(f"The dimension is: {n_dims}")
+    print(f"The fold is: {fidx}")
 
     n_batch = n_obs.shape[0]
-    fold_path = f"{results_dir}/folds/fold_{fidx}.pickle"
+    fold_path = f"{dir_results}/folds/fold_{fidx}.pickle"
     fold = pickle.load(open(fold_path, "rb"))
     # save the original n_obs of the training data
     n_obs_pre = np.copy(n_obs)
@@ -65,7 +65,7 @@ if __name__ == "__main__":
     W_loc, W_scale, H_loc, H_scale, loss_list = run_pyro_svi(
         N, J, K, n_batch, start_row, stop_row, n_obs, orders, n_steps, lr
     )
-    cv_embedding_dir = f"{results_dir}/cv_embeddings"
+    cv_embedding_dir = f"{dir_results}/cv_embeddings"
     if not os.path.exists(cv_embedding_dir):
         os.makedirs(cv_embedding_dir)
     # "wb": write as binary

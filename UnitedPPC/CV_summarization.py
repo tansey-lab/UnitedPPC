@@ -8,24 +8,24 @@ if __name__ == "__main__":
     args = parsearg_utils().parse_args()
 
     # output options
-    results_dir = args.results_dir
+    dir_results = args.results_dir
     # cross-validation options
     cv_dims = args.crossval_dims
     cv_step = args.crossval_steps
     cv_folds = args.crossval_folds
 
     # ------------------------------------- main -------------------------------------
-    plots_dir = f"{results_dir}/plots"
+    plots_dir = f"{dir_results}/plots"
 
     n_dims_knee = summarize_cv_results(
         cv_dims, 
         cv_step, 
         cv_folds, 
-        results_dir, 
+        dir_results, 
         plots_dir
     )
 
-    with open(f"{results_dir}/cv_best_dims.csv", "w+") as file:
+    with open(f"{dir_results}/cv_best_dims.csv", "w+") as file:
         writer = csv.writer(file)
         writer.writerow(["best_n_dims_elbow"])
         writer.writerow([n_dims_knee])

@@ -16,8 +16,8 @@ script2="UnitedPPC.CV_pyro"
 script3="UnitedPPC.CV_posterior"
 script4="UnitedPPC.CV_summarization"
 
-cv_opts="--crossval_dims 1 102 --crossval_steps 10 --crossval_folds 10"
-svi_opts="--n_steps 2000 --learning_rate 0.001"
+cv_opts="-cd 1 102 -cs 10 -cf 10"
+svi_opts="-n 2000 -lr 0.001"
 # calculate number of jobs in the job array, n_indices = n_folds * len(n_dims_options)
 n_indices=110
 
@@ -26,7 +26,7 @@ path_main="/data1/tanseyw/projects/whitej/UnitedPPC"
 path_data="${path_main}/data"
 file_rna="${path_data}/df_count_inner.csv"
 file_zscore="${path_data}/mean_aucs.csv"
-file_meta="${path_data}/df_meta_inner.csv"
+file_meta="${path_data}/sample_metadata.csv"
 # results
 path_results="${path_main}/results"
 path_logs="${path_results}/logs"
@@ -52,13 +52,13 @@ jid1=$(
     -o ${path_logs}/${job1}_%j.stdout \
     -e ${path_logs}/${job1}_%j.stderr \
     --wrap="source ${conda_path};\
-            conda activate UnitedMet;\
+            conda activate UnitedPPC;\
             python3 -m ${script1} \
                     -rna ${file_rna} \
-                    -zscore ${file_zscore}
+                    -zscore ${file_zscore} \
                     -meta ${file_meta} \
-                    -rd ${path_results}" \
                     ${cv_opts} \
+                    -rd ${path_results}" \
 )
 
 jid2=$(
@@ -78,9 +78,9 @@ jid2=$(
     --wrap="source ${conda_path}; \
             conda activate UnitedPPC; \
             python3 -m ${script2} \
-                    -rd ${path_results} \
                     ${cv_opts} \
-                    ${svi_opts}" \
+                    ${svi_opts} \
+                    -rd ${path_results}" \
 )
 
 jid3=$(
@@ -97,11 +97,11 @@ jid3=$(
         -t 0:30:00 \
         -o ${path_logs}/${job3}_%j.stdout \
         -e ${path_logs}/${job3}_%j.stderr \
-        --wrap="source ${conda_path};\
-                conda activate UnitedPPC;\
+        --wrap="source ${conda_path}; \
+                conda activate UnitedPPC; \
                 python3 -m ${script3} \
-                        -rd ${path_results} \
-                        ${cv_opts}" \
+                           ${cv_opts} \
+                           -rd ${path_results}" \
 )
 
 sbatch \
@@ -116,13 +116,13 @@ sbatch \
     -o ${path_logs}/${job4}_%j.stdout \
     -e ${path_logs}/${job4}_%j.stderr \
     --wrap="source ${conda_path}; \
-            conda activate UnitedMet; \
+            conda activate UnitedPPC; \
             python3 -m ${script4} \
-                    -rd ${path_results} \
-                    ${cv_opts}"
+                    ${cv_opts} \
+                    -rd ${path_results}"
 
 echo "cv options:"
 echo $opts
 echo "Starting job..."
-echo "THe path is $PATH"
+echo "The path is ${PATH}"
 echo "start time $(date)"

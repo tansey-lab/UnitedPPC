@@ -13,7 +13,7 @@ if __name__ == "__main__":
     args = parsearg_utils().parse_args()
 
     # output options
-    results_dir = args.results_dir
+    dir_results = args.results_dir
     # cross-validation options
     cv_dims = args.crossval_dims
     cv_step = args.crossval_steps
@@ -27,7 +27,7 @@ if __name__ == "__main__":
     job_index = int(job_index)
 
     # ------------------------------------- read data -------------------------------------
-    cv_embedding_dir = f"{results_dir}/cv_embeddings"
+    cv_embedding_dir = f"{dir_results}/cv_embeddings"
     with open(f"{cv_embedding_dir}/W_H_loc_scale_{job_index}.npy", "rb") as f:
         W_loc = np.load(f)
         W_scale = np.load(f)
@@ -36,7 +36,7 @@ if __name__ == "__main__":
         f.close()
     print(f"Reading posterior latent variables from {cv_embedding_dir}/W_H_loc_scale_{job_index}.npy")
 
-    with open(f"{results_dir}/matrices.npy", "rb") as f:
+    with open(f"{dir_results}/matrices.npy", "rb") as f:
         orders = np.load(f)
         n_obs_pre = np.load(f)  # since the saved n_obs is the original one, n_ons_pre = n_obs
         batch_sizes = np.load(f)
@@ -54,7 +54,7 @@ if __name__ == "__main__":
     print(f"The fold is: {fidx}")
 
     n_batch = n_obs_pre.shape[0]
-    fold_path = f"{results_dir}/folds/fold_{fidx}.pickle"
+    fold_path = f"{dir_results}/folds/fold_{fidx}.pickle"
     fold = pickle.load(open(fold_path, "rb"))
 
     # ------------------------------------- main -------------------------------------
@@ -71,10 +71,10 @@ if __name__ == "__main__":
     score = cv_score_mae_met_rna(rank_hat_mean, ranks, n_batch, start_row, stop_row, fold, n_obs_pre)
 
     # Write cv scores
-    with open(f"{results_dir}/scores.txt", "a") as f:  # "a": Append Only
+    with open(f"{dir_results}/scores.txt", "a") as f:  # "a": Append Only
         f.write(str(didx) + " " + str(fidx) + " " + str(score) + "\n")  # remove 30 later
         f.close()
-    with open(f"{results_dir}/cv_folds_scores.csv", "a") as file:
+    with open(f"{dir_results}/cv_folds_scores.csv", "a") as file:
         writer = csv.writer(file)
         writer.writerow([n_dims, fidx, score])
 

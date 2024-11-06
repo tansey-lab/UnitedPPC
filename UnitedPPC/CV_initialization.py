@@ -3,13 +3,14 @@ import csv
 import pickle
 
 from UnitedPPC.data_processing import *
-from UnitedMet.pyro_model import generate_pyro_data
+from UnitedPPC.pyro_model import generate_pyro_data
 from UnitedPPC.utils import parsearg_utils, split_folds_across
 from UnitedPPC.cross_validation import saving_data_for_cv
 
 if __name__ == "__main__":
     # ------------------------------------- argparse -------------------------------------
     args = parsearg_utils().parse_args()
+    print(args)
 
     # input options
     file_rna = args.rna_file
@@ -20,11 +21,11 @@ if __name__ == "__main__":
     cv_step = args.crossval_steps
     cv_folds = args.crossval_folds
     # output options
-    results_dir = args.results_dir
+    dir_results = args.results_dir
 
     # ------------------------------------- init -------------------------------------
     seed = 42
-    (plots_dir, embedding_dir) = file_system_init(results_dir)
+    (plots_dir, embedding_dir) = file_system_init(dir_results)
 
     # ------------------------------------- main -------------------------------------
     # load and concatenate RNA-seq and z-score data
@@ -32,7 +33,7 @@ if __name__ == "__main__":
         generate_concatenated_ppc_data(
             rna_file = file_rna,
             zscore_file = file_zscore,
-            meta_file = sfile_meta,
+            meta_file = file_meta,
         )
     data = df_merge.to_numpy()
 
@@ -59,10 +60,10 @@ if __name__ == "__main__":
     # this can all be extracted from batch_index_vector
     batch_sizes = [list(batch_index_vector).count(i) for i in set(batch_index_vector)]
     start_row = list(np.cumsum([0] + batch_sizes)[:-1])
-    stop_row = list(np.cumsum(batch_sizes) - 1)
+    stop_row = list(np.cumsum(batch_sizes))
 
     saving_data_for_cv(
-        results_dir, 
+        dir_results, 
         orders, 
         n_obs, 
         batch_sizes,
@@ -78,12 +79,12 @@ if __name__ == "__main__":
 
     out_header = ["n_dims", "fold", "mae"]
 
-    with open(f"{results_dir}/cv_folds_scores.csv", "w+") as file:
+    with open(f"{dir_results}/cv_folds_scores.csv", "w+") as file:
         writer = csv.writer(file)
         writer.writerow(out_header)
 
     # "w": Opens a file for writing. Creates a new file if it does not exist or truncates(empty) the file if it exists.
-    open(f"{results_dir}/scores.txt", "w").close()
+    open(f"{dir_results}/scores.txt", "w").close()
 
     # ------------------------------------- split and save -------------------------------------
     np.random.seed(seed)
@@ -95,9 +96,9 @@ if __name__ == "__main__":
         cv_folds
     )
 
-    if not os.path.exists(f"{results_dir}/folds"):
-        os.makedirs(f"{results_dir}/folds")
+    if not os.path.exists(f"{dir_results}/folds"):
+        os.makedirs(f"{dir_results}/folds")
 
     for fidx, fold in enumerate(folds):
-        fold_temp = f"{results_dir}/folds/fold_{fidx}.pickle"
+        fold_temp = f"{dir_results}/folds/fold_{fidx}.pickle"
         pickle.dump(fold, open(fold_temp, "wb+"))
