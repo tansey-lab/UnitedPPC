@@ -28,6 +28,7 @@ if __name__ == "__main__":
     job_index = int(job_index)
 
     # ------------------------------------- main -------------------------------------
+    # dir_results = "/data1/tanseyw/projects/whitej/UnitedPPC/results"
     with open(f"{dir_results}/matrices.npy", "rb") as f:
         orders = np.load(f)
         n_obs = np.load(f)

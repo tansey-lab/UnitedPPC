@@ -13,6 +13,9 @@ if __name__ == "__main__":
     print(args)
 
     # input options
+    # file_rna = "/data1/tanseyw/projects/whitej/UnitedPPC/data/df_count_inner.csv"
+    # file_zscore = "/data1/tanseyw/projects/whitej/UnitedPPC/data/mean_aucs.csv"
+    # file_meta = "/data1/tanseyw/projects/whitej/UnitedPPC/data/sample_metadata.csv"
     file_rna = args.rna_file
     file_zscore = args.zscore_file
     file_meta = args.metadata_file
@@ -29,6 +32,7 @@ if __name__ == "__main__":
 
     # ------------------------------------- main -------------------------------------
     # load and concatenate RNA-seq and z-score data
+
     df_merge, batch_index_vector, n_batch, n_rna, n_zscore = \
         generate_concatenated_ppc_data(
             rna_file = file_rna,

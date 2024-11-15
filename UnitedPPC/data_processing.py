@@ -59,10 +59,13 @@ def generate_concatenated_ppc_data(
     list_sample_sorted = df_meta_sample.loc[
         df_meta_sample["id_sample"].isin(df_merge.index), "id_sample"].tolist()
     df_merge = df_merge.loc[list_sample_sorted]
+    
     # generate batch_index_vector by extracting study_id > convert to int > convert to numpy array
-    list_study_name = df_meta_sample.loc[
-        df_meta_sample["id_sample"].isin(df_merge.index), "study_id"].tolist()
-    dict_study = {i: idx for idx, i in enumerate(df_meta_sample["study_id"].unique())}
+    series_study_name = df_meta_sample.loc[
+        df_meta_sample["id_sample"].isin(df_merge.index), "study_id"]
+    list_study_name = series_study_name.tolist()
+    unique_study_name = series_study_name.unique()
+    dict_study = {i: idx for idx, i in enumerate(unique_study_name)}
     list_study_idx = [dict_study[i] for i in list_study_name]
     batch_index_vector = np.array(list_study_idx, dtype=int)
     n_batch = len(dict_study)

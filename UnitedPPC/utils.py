@@ -198,8 +198,22 @@ def smart_perm_2D(x, permutation):
     """
     assert x.size() == permutation.size()
     if x.ndimension() == 2:
+        print(f"x.shape: {x.shape}")
+        print(f"permutation.shape: {permutation.shape}")
+        print(f"permutation type: {type(permutation)}")
+        print(f"permutation: {permutation}")
         d1, d2 = x.size()
-        x_permuted = x[
+        print(f"d1: {d1}")
+        print(f"d2: {d2}")
+        print(len(permutation.flatten()))
+        print(len(torch.arange(d2).unsqueeze(0).repeat((1, d1)).flatten()))
+        x_temp = x[
+            permutation.flatten(),
+            torch.arange(d2).unsqueeze(0).repeat((1, d1)).flatten()
+        ]
+        print(x_temp)
+        print(x_temp.shape)
+        x_permuted = x.flatten()[
             permutation.flatten(),
             torch.arange(d2).unsqueeze(0).repeat((1, d1)).flatten()
         ].view(d1, d2)
